@@ -10,7 +10,7 @@ Você é o gerente de logística de uma empresa de entregas que atende a uma cid
     - Ponto B: 15 pacotes
     - Ponto C: 10 pacotes
     - Ponto D: 25 pacotes
-# - Capacidade dos Veículos: # Cada veículo pode transportar até 30 pacotes por viagem.
+ - **Capacidade dos Veículos:**  Cada veículo pode transportar até 30 pacotes por viagem.
 - **Distâncias entre os Pontos de Entrega (em km):**
     - A -> B: 5 km
     - A -> C: 10 km
