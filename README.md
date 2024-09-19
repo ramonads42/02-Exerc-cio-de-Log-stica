@@ -20,7 +20,6 @@ Você é o gerente de logística de uma empresa de entregas que atende a uma cid
     - C -> D: 3 km
 
 ### Tarefas
-```
 1. **Divisão dos Pacotes:**
     - Determine como os pacotes serão divididos entre os veículos, considerando a capacidade máxima de 30 pacotes por veículo.
 2. **Planejamento de Rotas:**
@@ -35,4 +34,4 @@ Você é o gerente de logística de uma empresa de entregas que atende a uma cid
         - O custo total de cada rota.
         - Qualquer desafio encontrado e como foi resolvido.
 
-```
+
